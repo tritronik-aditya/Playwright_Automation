@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {"TestCase":"npx playwright test --project=chromium"},
+  "scripts": {"TestCase":"npx playwright test SC01_Login_MBNG.spec.js --project=chromium"},
   "keywords": [],
   "author": "",
   "license": "ISC",
